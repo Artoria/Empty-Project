@@ -1,0 +1,9 @@
+Module1 = 0, 0, 0, 0, C
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmLogin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmOptions = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmDocument = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmBrowser = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmTip = 0, 0, 0, 0, C, 0, 0, 0, 0, C
