@@ -1,0 +1,13 @@
+<Window 
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"  
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+            Title="MainWindow" Height="480" Width="640">  
+  <Grid>  
+    <Canvas Name="Canvas1" Width="100" Height="100">  
+        <Ellipse Fill="Yellow" Stroke="Black" StrokeThickness="7" Width="100" Height="100" />  
+        <Ellipse Height="15"  Fill="Black" Width="10" Canvas.Left="28" Canvas.Top="28" />  
+        <Ellipse Fill="Black" Height="15" Width="10" Canvas.Left="62" Canvas.Top="28" />  
+        <Path Stroke="Black" StrokeThickness="6" Data="M 30,60 Q 50,90,70,60" />  
+    </Canvas>  
+  </Grid>  
+ </Window>  
